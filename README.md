@@ -18,6 +18,16 @@ Expect a folder structure like this:
             ...
             /12-dec
 
+
+DEPENDENCIES:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  For everyone:
+    exiftool     (https://www.geeksforgeeks.org/linux-unix/installing-and-using-exiftool-on-linux/)
+  
+  For iphone users:
+    idevicepair  (sudo apt-get install libimobiledevice-utils)
+    ifuse        (https://github.com/libimobiledevice/ifuse)
+
 INSTRUCTIONS:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Download the photo-mover.sh script
