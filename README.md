@@ -53,11 +53,12 @@ Script input arguments:
         THIS FIELD IS NECESSARY 
       
     -t TO folder   (where the photos will go) 
-        if you've ran this script before then name the folder the same name as you originally used so the photos are transferred to the same place
         THIS FIELD IS NECESSARY 
       
     -d DEVICE      (device with original FROM folder) 
         if iphone then you *MUST* type: iphone
+        if you've ran this script before then:
+                name the device the same name as you originally used so the photos are transferred to the same place
         THIS FIELD IS NECESSARY 
       
     -r REVERSE     (default=1) 
