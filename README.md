@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Easily move your photos from your camera to a different storage device! (linux environment only) <br/>
+&nbsp;Easily move your photos from your camera to a different storage device! (linux environment only) <br/>
 This script will use the photos metadata to organize your photos by year, month, and date when transferring to your storage device.
 Expect a folder structure like this:
   /my
