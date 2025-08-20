@@ -41,10 +41,10 @@ INSTRUCTIONS:
 Download the photo-mover.sh script
 
 
-Run script example: 
+Run script examples: 
     
-    ./photo-mover.sh -f '~/iphone/DCIM' -t '/my/usb/drive' -d iphone -r 1 -u 0
-
+    ./photo-mover.sh -f '~/iphone/DCIM' -t '/my/usb/drive' -d iphone
+    ./photo-mover.sh -f '/my/camera/DCIM' -t '/my/usb/drive' -d a7c -r 0 -u 0
 
 Script input arguments: 
 
