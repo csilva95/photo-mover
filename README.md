@@ -57,3 +57,5 @@ Script input arguments: <br/>
 <br/>
 If you ever forget then you can always run: <br/>
   ./photo-mover.sh -h <br/>
+<br/>
+<br/>
