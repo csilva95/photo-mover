@@ -48,29 +48,29 @@ Run script examples:
 
 Script input arguments: 
 
-    -f FROM folder (where the photos are coming from) 
+    -f FROM folder (THIS FIELD IS NECESSARY) 
+        path of the camera photos
         if iphone then you *MUST* type: '~/iphone/DCIM' 
-        THIS FIELD IS NECESSARY 
+        
       
-    -t TO folder   (where the photos will go) 
-        THIS FIELD IS NECESSARY 
+    -t TO folder   (THIS FIELD IS NECESSARY) 
+        path of the storage device
       
-    -d DEVICE      (device with original FROM folder) 
+    -d DEVICE      (THIS FIELD IS NECESSARY) 
         if iphone then you *MUST* type: iphone
         if you've ran this script before then:
                 name the device the same name as you originally used so the photos are transferred to the same place
-        THIS FIELD IS NECESSARY 
       
-    -r REVERSE     (default=1) 
+    -r REVERSE     (THIS FIELD IS *NOT* NECESSARY) 
+        default=1
         1=transfer newest photos first 
         0=transfer oldest photos first 
-        THIS FIELD IS *NOT* NECESSARY 
+        
       
-    -u UPDATE      (default=1) 
+    -u UPDATE      (THIS FIELD IS *NOT* NECESSARY) 
+        default=1
         1=script ends once it reaches a photo it's already transferred before
         0=script will end once it attempts to transfer all photos
-        THIS FIELD IS *NOT* NECESSARY
-      
 
 If you ever forget then you can always run:
 
