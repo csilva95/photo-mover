@@ -149,7 +149,7 @@ if [ $ans != "y" ] ; then
 fi
 
 cd ${from_dir}
-folders=($(ls -d *))
+folders=($(ls -d */))
 
 echo "Creating initial to folder..."
 if [ -d "${to_dir}/${device}" ]; then
